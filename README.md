@@ -32,8 +32,8 @@ Este sistema processa dados pessoais (nome, documento). Você é responsável po
 
 1. Clone o repositório
    ```bash
-   git clone https://github.com/seu-usuario/access-control.git
-   cd access-control
+   git clone https://github.com/thiagotgp85/accesscontrolbcbcf.git
+   cd accesscontrolbcbcf
 
 Configure variáveis de ambiente
 cp .env.example .env
@@ -65,3 +65,6 @@ Thiago Pereira
 
 📄 Licença
 MIT License
+
+
+---
