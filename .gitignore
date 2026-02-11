@@ -1,0 +1,28 @@
+# Credenciais e variáveis sensíveis
+.env
+.env.local
+.env.*.local
+
+# Dados de banco de dados (se usar localmente)
+*.db
+*.sqlite
+data/
+
+# Arquivos de configuração sensível
+config.local.js
+secrets/
+
+# Logs
+*.log
+logs/
+
+# Node modules (se usar npm)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
